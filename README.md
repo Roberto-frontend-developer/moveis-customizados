@@ -7,20 +7,20 @@ Objetvo dessa projeto é desenvolver  tags html semânticas.
 
 ## tags html semântico
 
-<header>
-<section>
-<article>
-<nav>
-<aside>
-<main>
-<figure>
-<footer>
-<a>
-<em>
-<strong>
-<cite>
-<q>
-<time>
+header
+section
+article
+nav
+aside
+main
+figure
+footer
+a
+em
+strong
+cite
+q
+time
 ## CSS Units
 
 Unidades de medidas do CSS
