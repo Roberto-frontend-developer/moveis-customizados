@@ -7,9 +7,9 @@ Objetvo desse projeto é desenvolver  tags html semânticas e também css para e
 
 ## tags html semântico
 
-`<header>` é utilizado para representar o cabeçalho de um documento ou seção declarado no HTML. Nele podemos inserir elementos de <h1> a <h6>
+`<header>` é utilizado para representar o cabeçalho de um documento ou seção declarado no HTML. Nele podemos inserir elementos de  `<h1>` e `<h6>`.
 
-`<section>` representa uma seção dentro de um documento e geralmente contém um título, o qual é definido por meio de um dos elementos entre <h1> e <h6>
+`<section>` representa uma seção dentro de um documento e geralmente contém um título, o qual é definido por meio de um dos elementos entre `<h1>` e `<h6>`.
 
 `<article>` quando precisamos declarar um conteúdo que não precisa de outro para fazer sentido em um documento HTML
 
