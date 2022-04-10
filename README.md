@@ -1,11 +1,11 @@
-# moveis-customizados
+# Móveis customizados
 
 Fala Dev! 💜
 
 Objetvo desse projeto é desenvolver  tags html semânticas e também css para entender alguns conceito utilizado Box Model, Flex box, fontes alinhamentos e  espaçammentos
 
 
-## tags html semântico
+## Tags html semântico
 
 `<header>` é utilizado para representar o cabeçalho de um documento ou seção declarado no HTML. Nele podemos inserir elementos de  `<h1>` e `<h6>`.
 
