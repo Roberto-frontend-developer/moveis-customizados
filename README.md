@@ -35,25 +35,3 @@ Objetvo desse projeto é desenvolver  tags html semânticas e também css para e
 
 `<time>` é utilizado para representar datas
 
-## CSS 
-
-Unidades de medidas do CSS
-
-Layout Fixo
-`px` - Pixels
-
-Layout Fluido
-`%` - Porcentagem
-`auto` - Automática
-`vh` - Viewport Height
-`vw` - Viewport Width
-
-Textos fixos
-`1px` = 0.75pt
-`16px` = 12pt
-
-Texto fluidos
-`em` - multiplicado pelo pai 
-`rem` - multiplicado pelo root
-
-Sempre que possível, usar SVG ao invés de JPG, PNG
