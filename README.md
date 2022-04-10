@@ -13,7 +13,7 @@ Objetvo desse projeto é desenvolver  tags html semânticas e também css para e
 
 `<article>` quando precisamos declarar um conteúdo que não precisa de outro para fazer sentido em um documento HTML
 
-`<nav>` é utilizado quando precisamos representar um agrupamento de links de navegação, que, por sua vez, são criados com os elementos <ul>, <li> e <a>.
+`<nav>` é utilizado quando precisamos representar um agrupamento de links de navegação, que, por sua vez, são criados com os elementos `<ul>`, `<li>` e`<a>`.
 
 `<aside>` é utilizado quando precisamos criar um conteúdo de apoio/adicional ao conteúdo principal.
 
